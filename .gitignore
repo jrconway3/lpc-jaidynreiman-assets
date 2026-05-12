@@ -17,6 +17,9 @@ env/
 .env
 .env.*
 
+# VS Code workspace settings
+.vscode/
+
 # OS/editor junk
 .DS_Store
 Thumbs.db
