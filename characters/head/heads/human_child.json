@@ -1,0 +1,75 @@
+{
+  "name": "Human Child",
+  "category": "Head",
+  "tags": [
+    "human",
+    "child"
+  ],
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 100,
+      "child": "human/child/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "color_1": {
+      "material": "body",
+      "palettes": [
+        "ulpc",
+        "lpcr",
+        "all.lpcr"
+      ]
+    },
+    "color_2": {
+      "type_name": "eyes",
+      "label": "Eye Color",
+      "material": "eye",
+      "palettes": [
+        "ulpc",
+        "lpcr"
+      ]
+    }
+  },
+  "match_body_color": true,
+  "credits": [
+    {
+      "file": "human/child",
+      "notes": "",
+      "authors": [
+        "Stephen Challener (Redshrike)",
+        "kheftel",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/",
+        "https://opengameart.org/content/lpc-child-standing-template",
+        "https://opengameart.org/content/lpc-character-bases"
+      ]
+    }
+  ]
+}

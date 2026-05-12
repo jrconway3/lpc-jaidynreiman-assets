@@ -1,0 +1,70 @@
+{
+  "name": "Bat Wings",
+  "category": "wings",
+  "tags": [
+    "wings"
+  ],
+  "layers": [
+    {
+      "id": "fg",
+      "zPos": 105,
+      "male": "adult/fg/",
+      "muscular": "adult/fg/",
+      "female": "adult/fg/",
+      "pregnant": "adult/fg/",
+      "teen": "adult/fg/"
+    },
+    {
+      "id": "bg",
+      "zPos": 5,
+      "male": "adult/bg/",
+      "muscular": "adult/bg/",
+      "female": "adult/bg/",
+      "pregnant": "adult/bg/",
+      "teen": "adult/bg/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "cloth",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "Original by ElizaWy, added to most remaining frames by JaidynReiman",
+      "authors": [
+        "ElizaWy",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-wings-new-animations"
+      ]
+    }
+  ]
+}
