@@ -1,0 +1,69 @@
+{
+  "name": "Elf Trim",
+  "category": "hat_trim",
+  "tags": [
+    "santa",
+    "santa_wool"
+  ],
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 130,
+      "female": "adult/",
+      "male": "adult/",
+      "teen": "adult/",
+      "muscular": "adult/",
+      "pregnant": "adult/"
+    }
+  ],
+  "prerequisites": {
+    "asset": [
+      "hat_holiday_christmas"
+    ]
+  },
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "cloth",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "Christmas Elf by bluecarrot16, split into layers by JaidynReiman",
+      "authors": [
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-santa",
+        "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
+      ]
+    }
+  ]
+}

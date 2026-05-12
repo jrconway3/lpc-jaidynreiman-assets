@@ -1,0 +1,63 @@
+{
+  "name": "Bowtie",
+  "category": "neck",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 90,
+      "male": "adult/",
+      "female": "adult/",
+      "muscular": "adult/",
+      "pregnant": "adult/",
+      "teen": "adult/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "cloth",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "Originally by pennomi/laetissima/Makrohn, edited by bluecarrot16, recolors by JaidynReiman",
+      "authors": [
+        "JaidynReiman",
+        "bluecarrot16",
+        "Thane Brimhall (pennomi)",
+        "laetissima",
+        "Makrohn"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-2-characters",
+        "https://opengameart.org/content/lpc-gentleman"
+      ]
+    }
+  ]
+}

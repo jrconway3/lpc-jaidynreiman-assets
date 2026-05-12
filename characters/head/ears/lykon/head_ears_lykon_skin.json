@@ -1,0 +1,66 @@
+{
+  "name": "Side Wolf Ears Skintone",
+  "category": "ears_inner",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 127,
+      "male": "skin/adult/",
+      "muscular": "skin/adult/",
+      "female": "skin/adult/",
+      "teen": "skin/adult/",
+      "pregnant": "skin/adult/",
+      "child": "skin/child/"
+    }
+  ],
+  "prerequisites": {
+    "asset": [
+      "head_ears_lykon"
+    ]
+  },
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "body",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "match_body_color": true,
+  "credits": [
+    {
+      "file": ".",
+      "notes": "",
+      "authors": [
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "CC-BY 3.0+",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-furry-ears-tails-for-rpg-sprites"
+      ]
+    }
+  ]
+}

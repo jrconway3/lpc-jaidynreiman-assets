@@ -1,0 +1,71 @@
+{
+  "name": "Xlong",
+  "category": "hair",
+  "layers": [
+    {
+      "id": "fg",
+      "zPos": 120,
+      "male": "adult/fg/",
+      "muscular": "adult/fg/",
+      "female": "adult/fg/",
+      "pregnant": "adult/fg/",
+      "teen": "adult/fg/"
+    },
+    {
+      "id": "bg",
+      "zPos": 9,
+      "male": "adult/bg/",
+      "muscular": "adult/bg/",
+      "female": "adult/bg/",
+      "pregnant": "adult/bg/",
+      "teen": "adult/bg/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "hair",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "Original by Nila122; cleaned up, resplit into separate layers, and added jump/run/sit/revised combat by JaidynReiman",
+      "authors": [
+        "JaidynReiman",
+        "Nila122"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "https://opengameart.org/content/lpc-expanded-xlong-hair"
+      ]
+    }
+  ]
+}
