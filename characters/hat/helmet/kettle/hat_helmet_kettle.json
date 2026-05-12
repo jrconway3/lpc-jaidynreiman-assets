@@ -1,0 +1,74 @@
+{
+  "name": "Kettle helm",
+  "category": "hat",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 135,
+      "female": "adult/",
+      "pregnant": "adult/",
+      "male": "adult/",
+      "muscular": "adult/",
+      "teen": "adult/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "color_1": {
+      "material": "metal",
+      "palettes": [
+        "ulpc",
+        "lpcr",
+        "all.lpcr"
+      ]
+    },
+    "color_2": {
+      "type_name": "hat_secondary",
+      "label": "Kettle Inner",
+      "material": "cloth",
+      "base": "brown",
+      "palettes": [
+        "ulpc",
+        "all.lpcr"
+      ]
+    }
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "previously referred to as chain-hat, color reduction by Napsio (Vitruvian Studio)",
+      "authors": [
+        "Johannes Sj\u00f6lund (wulax)",
+        "JaidynReiman",
+        "Napsio (Vitruvian Studio)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
+      ]
+    }
+  ]
+}

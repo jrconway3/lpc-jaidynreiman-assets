@@ -1,0 +1,61 @@
+{
+  "name": "Legion",
+  "category": "armour",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 60,
+      "male": "male/",
+      "female": "female/",
+      "teen": "teen/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "metal",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "adapted to v3 bases by bluecarrot16, jump/run/sit/combat and teen by JaidynReiman, color reduction to 6 colors inspired by Napsio (Vitruvian Studio)",
+      "authors": [
+        "Napsio (Vitruvian Studio)",
+        "JaidynReiman",
+        "bluecarrot16",
+        "Nila122"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-roman-armor"
+      ]
+    }
+  ]
+}

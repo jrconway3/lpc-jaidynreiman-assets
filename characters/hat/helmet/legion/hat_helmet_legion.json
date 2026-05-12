@@ -1,0 +1,65 @@
+{
+  "name": "Legion",
+  "category": "hat",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 130,
+      "female": "adult/",
+      "pregnant": "adult/",
+      "male": "adult/",
+      "muscular": "adult/",
+      "teen": "adult/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "metal",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Nila122",
+        "JaidynReiman",
+        "Matthew Krohn (makrohn)",
+        "Johannes Sj\u00f6lund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-roman-armor",
+        "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
+      ]
+    }
+  ]
+}

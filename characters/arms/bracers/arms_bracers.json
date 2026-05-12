@@ -1,0 +1,55 @@
+{
+  "name": "Bracers",
+  "category": "bracers",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 70,
+      "male": "male/",
+      "female": "thin/",
+      "pregnant": "thin/",
+      "teen": "thin/",
+      "muscular": "male/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "climb",
+    "idle",
+    "emote"
+  ],
+  "recolors": {
+    "material": "metal",
+    "palettes": [
+      "ulpc",
+      "cloth.ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "original by wulax, adjustments by Makrohn, climb/emote by JaidynReiman",
+      "authors": [
+        "Matthew Krohn (makrohn)",
+        "Johannes Sj\u00f6lund (wulax)",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Basic Shoes",
+  "category": "shoes",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 15,
+      "female": "thin/",
+      "pregnant": "thin/",
+      "teen": "thin/",
+      "male": "male/",
+      "muscular": "male/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "leather",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": "feet/shoes",
+      "notes": "original by wulax, edited for v3 base by bluecarrot16, Jump/Sit/Emote/Run/Revised Combat by JaidynReiman",
+      "authors": [
+        "JaidynReiman",
+        "bluecarrot16",
+        "Johannes Sj\u00f6lund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "http://opengameart.org/content/lpc-clothing-updates",
+        "https://opengameart.org/content/lpc-expanded-socks-shoes"
+      ]
+    },
+    {
+      "file": "thin",
+      "notes": "original by wulax, edited for female base by Joe White, edited for v3 base by bluecarrot16, Jump/Sit/Emote/Run/Revised Combat by JaidynReiman",
+      "authors": [
+        "JaidynReiman",
+        "Joe White",
+        "Johannes Sj\u00f6lund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "http://opengameart.org/content/lpc-clothing-updates",
+        "https://opengameart.org/content/lpc-expanded-socks-shoes"
+      ]
+    }
+  ]
+}

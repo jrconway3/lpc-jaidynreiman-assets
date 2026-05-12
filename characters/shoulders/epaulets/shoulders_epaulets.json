@@ -1,0 +1,59 @@
+{
+  "name": "Epaulets",
+  "category": "shoulders",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 60,
+      "male": "male/",
+      "muscular": "male/",
+      "female": "thin/",
+      "pregnant": "thin/",
+      "teen": "thin/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "cloth",
+    "palettes": [
+      "ulpc",
+      "metal.ulpc",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "Original by bluecarrot16, jump/run/sit/emote/revised combat frames and female by JaidynReiman",
+      "authors": [
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "name": "Leather",
+  "category": "armour",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 60,
+      "male": "male/",
+      "female": "female/",
+      "teen": "teen/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "sit",
+    "emote",
+    "climb"
+  ],
+  "recolors": {
+    "color_1": {
+      "material": "cloth",
+      "base": "leather",
+      "palettes": [
+        "ulpc",
+        "metal.ulpc",
+        "all.lpcr"
+      ]
+    },
+    "color_2": {
+      "type_name": "leather_armor_belt",
+      "label": "Leather Armor Belt",
+      "material": "metal",
+      "palettes": [
+        "ulpc",
+        "lpcr",
+        "all.lpcr"
+      ]
+    }
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "adapted to v3 bases by bluecarrot16, reduced colors and climb/emote/jump by JaidynReiman",
+      "authors": [
+        "Johannes Sj\u00f6lund (wulax)",
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-clothing-updates",
+        "https://opengameart.org/content/lpc-expanded-armor"
+      ]
+    },
+    {
+      "file": "female",
+      "notes": "recolor of torso/armour/leather/female/brown.png, adapted to v3 bases by bluecarrot16, reduced colors and climb/emote/jump by JaidynReiman",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "Matthew Krohn (makrohn)",
+        "Johannes Sj\u00f6lund (wulax)",
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-clothing-updates",
+        "https://opengameart.org/content/lpc-expanded-armor"
+      ]
+    },
+    {
+      "file": "teen",
+      "notes": "adapted to v3 bases by bluecarrot16, teen version by JaidynReiman adapted from Male and Female versions",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "Matthew Krohn (makrohn)",
+        "Johannes Sj\u00f6lund (wulax)",
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-clothing-updates",
+        "https://opengameart.org/content/lpc-expanded-armor"
+      ]
+    }
+  ]
+}

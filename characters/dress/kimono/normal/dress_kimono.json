@@ -1,0 +1,53 @@
+{
+  "name": "Kimono",
+  "category": "dress",
+  "tags": [
+    "dress",
+    "kimono",
+    "kimono_simple"
+  ],
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 30,
+      "female": "universal/female/",
+      "teen": "universal/female/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "idle"
+  ],
+  "recolors": {
+    "material": "cloth",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "",
+      "authors": [
+        "JaidynReiman",
+        "Stephen Challener (Redshrike)",
+        "Johannes Sj\u00f6lund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "CC-BY 3.0+",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-kimono-relm"
+      ]
+    }
+  ]
+}

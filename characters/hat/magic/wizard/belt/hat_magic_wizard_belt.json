@@ -1,0 +1,72 @@
+{
+  "name": "Wizard Hat Belt",
+  "category": "hat_trim",
+  "tags": [
+    "wizard",
+    "hat_trim"
+  ],
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 131,
+      "male": "adult/",
+      "female": "adult/",
+      "muscular": "adult/",
+      "pregnant": "adult/",
+      "teen": "adult/"
+    }
+  ],
+  "prerequisites": {
+    "asset": [
+      "hat_magic_wizard"
+    ]
+  },
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "cloth",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": "hat/magic/wizard",
+      "notes": "Original Wizard Hat and Recolors by bigbeargames and reemax; split into separate layers with new recolors by JaidynReiman",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "Tuomo Untinen (reemax)",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-items-and-game-effects",
+        "https://opengameart.org/content/lpc-pointed-hats",
+        "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
+      ]
+    }
+  ]
+}

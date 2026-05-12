@@ -1,0 +1,85 @@
+{
+  "name": "Gloves",
+  "category": "gloves",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 70,
+      "male": "male/",
+      "muscular": "male/",
+      "female": "thin/",
+      "teen": "thin/",
+      "pregnant": "thin/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "metal",
+    "palettes": [
+      "ulpc",
+      "cloth.ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": "male",
+      "notes": "metal gloves by wulax, recolors by bigbeargames, adapted to v3 bases by bluecarrot16, added to expanded animations by JaidynReiman",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "Matthew Krohn (makrohn)",
+        "Johannes Sj\u00f6lund (wulax)",
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "thin",
+      "notes": "metal gloves by wulax, extended to female base by makrohn, recolors by bigbeargames, adapted to v3 bases by bluecarrot16, added to expanded animations by JaidynReiman",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "Matthew Krohn (makrohn)",
+        "Johannes Sj\u00f6lund (wulax)",
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
+  ]
+}
