@@ -1,0 +1,73 @@
+{
+  "name": "Lizard tail",
+  "category": "tail",
+  "layers": [
+    {
+      "id": "fg",
+      "zPos": 85,
+      "male": "adult/fg/",
+      "muscular": "adult/fg/",
+      "female": "adult/fg/",
+      "pregnant": "adult/fg/",
+      "teen": "adult/fg/",
+      "child": "child/fg/"
+    },
+    {
+      "id": "bg",
+      "zPos": 5,
+      "male": "adult/bg/",
+      "muscular": "adult/bg/",
+      "female": "adult/bg/",
+      "pregnant": "adult/bg/",
+      "teen": "adult/bg/",
+      "child": "child/bg/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "body",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "match_body_color": true,
+  "credits": [
+    {
+      "file": ".",
+      "notes": "edited for v3 bases and recolored by bluecarrot16, additional animations added by JaidynReiman",
+      "authors": [
+        "Nila122",
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/drakes-and-lizardfolk"
+      ]
+    }
+  ]
+}

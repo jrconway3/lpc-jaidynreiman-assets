@@ -1,0 +1,64 @@
+{
+  "name": "Cavalier feather",
+  "category": "hat_accessory",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 131,
+      "male": "adult/",
+      "muscular": "adult/",
+      "female": "adult/",
+      "teen": "adult/",
+      "pregnant": "adult/"
+    }
+  ],
+  "prerequisites": {
+    "asset": [
+      "hat_cap_cavalier"
+    ]
+  },
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "cloth",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": "hat/pirate/cavalier",
+      "notes": "Cavalier Hat by Bluecarrot16, layers and added animations by JaidynReiman",
+      "authors": [
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-pirates",
+        "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
+      ]
+    }
+  ]
+}

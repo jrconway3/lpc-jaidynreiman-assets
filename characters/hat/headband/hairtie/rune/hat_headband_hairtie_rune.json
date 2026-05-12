@@ -1,0 +1,61 @@
+{
+  "name": "Hair Tie Rune",
+  "category": "hairtie_rune",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 126,
+      "female": "adult/",
+      "male": "adult/",
+      "muscular": "adult/",
+      "pregnant": "adult/",
+      "teen": "adult/",
+      "child": "child/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "cloth",
+    "base": "red",
+    "palettes": [
+      "ulpc",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": "hat/headband/hairtie",
+      "notes": "",
+      "authors": [
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "CC-BY 3.0+",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-relm-hair-xlong-ponytail",
+        "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Bangslong2",
+  "category": "hair",
+  "layers": [
+    {
+      "id": "fg",
+      "zPos": 120,
+      "male": "adult/fg/",
+      "muscular": "adult/fg/",
+      "female": "adult/fg/",
+      "pregnant": "adult/fg/",
+      "teen": "adult/fg/"
+    },
+    {
+      "id": "bg",
+      "zPos": 9,
+      "male": "adult/bg/",
+      "muscular": "adult/bg/",
+      "female": "adult/bg/",
+      "pregnant": "adult/bg/",
+      "teen": "adult/bg/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "hair",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "",
+      "authors": [
+        "JaidynReiman",
+        "Barbara Riviera",
+        "Manuel Riecke (MrBeast)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/concept-art-for-lpc-entry",
+        "https://opengameart.org/content/lpc-expanded-hair"
+      ]
+    }
+  ]
+}

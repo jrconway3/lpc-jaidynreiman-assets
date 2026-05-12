@@ -1,0 +1,57 @@
+{
+  "name": "Kimono Trim",
+  "category": "dress_trim",
+  "tags": [
+    "dress",
+    "kimono_trim"
+  ],
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 31,
+      "female": "universal/female/",
+      "teen": "universal/female/"
+    }
+  ],
+  "prerequisites": {
+    "asset": [
+      "dress_kimono"
+    ]
+  },
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "idle"
+  ],
+  "recolors": {
+    "material": "cloth",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": "dress/kimono/normal",
+      "notes": "",
+      "authors": [
+        "JaidynReiman",
+        "Stephen Challener (Redshrike)",
+        "Johannes Sj\u00f6lund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "CC-BY 3.0+",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-kimono-relm"
+      ]
+    }
+  ]
+}

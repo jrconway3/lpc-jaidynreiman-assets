@@ -1,0 +1,59 @@
+{
+  "name": "Cyclops Eyes",
+  "category": "eyes",
+  "layers": [
+    {
+      "id": "base",
+      "zPos": 105,
+      "male": "adult/",
+      "muscular": "adult/",
+      "female": "adult/",
+      "teen": "adult/",
+      "pregnant": "adult/",
+      "child": "child/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_backslash",
+    "1h_halfslash"
+  ],
+  "recolors": {
+    "material": "cloth",
+    "palettes": [
+      "ulpc",
+      "lpcr",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": ".",
+      "notes": "original by kirts, repositioned by JaidynReiman along with shading and recolors",
+      "authors": [
+        "kirts",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/cyclops-and-his-eye"
+      ]
+    }
+  ]
+}
