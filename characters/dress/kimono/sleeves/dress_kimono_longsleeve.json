@@ -8,16 +8,10 @@
   ],
   "layers": [
     {
-      "id": "bg",
-      "zPos": 31,
-      "female": "female/bg/",
-      "teen": "female/bg/"
-    },
-    {
       "id": "fg",
       "zPos": 145,
-      "female": "female/fg/",
-      "teen": "female/fg/"
+      "female": "female/",
+      "teen": "female/"
     }
   ],
   "prerequisites": {

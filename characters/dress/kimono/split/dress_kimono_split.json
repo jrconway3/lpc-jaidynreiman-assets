@@ -10,8 +10,8 @@
     {
       "id": "base",
       "zPos": 30,
-      "female": "universal/female/",
-      "teen": "universal/female/"
+      "female": "female/",
+      "teen": "female/"
     }
   ],
   "animations": [
