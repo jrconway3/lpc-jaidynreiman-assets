@@ -22,7 +22,10 @@
     "watering",
     "climb",
     "idle",
-    "emote"
+    "jump",
+    "sit",
+    "emote",
+    "run"
   ],
   "recolors": {
     "material": "metal",

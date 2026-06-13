@@ -1,0 +1,78 @@
+{
+  "name": "Tattered Cape",
+  "category": "cape",
+  "layers": [
+    {
+      "id": "bg",
+      "zPos": 5,
+      "male": "tattered/bg/",
+      "female": "tattered/bg/",
+      "teen": "tattered/bg/",
+      "pregnant": "tattered/bg/",
+      "muscular": "tattered/bg/"
+    },
+    {
+      "id": "fg",
+      "zPos": 85,
+      "male": "tattered/fg/",
+      "female": "tattered/fg/",
+      "teen": "tattered/fg/",
+      "pregnant": "tattered/fg/",
+      "muscular": "tattered/fg/"
+    }
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "climb"
+  ],
+  "recolors": {
+    "material": "cloth",
+    "palettes": [
+      "ulpc",
+      "all.lpcr"
+    ]
+  },
+  "credits": [
+    {
+      "file": "tattered/fg",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more",
+        "https://opengameart.org/content/lpc-roman-armor"
+      ]
+    },
+    {
+      "file": "tattered/bg",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more",
+        "https://opengameart.org/content/lpc-roman-armor"
+      ]
+    }
+  ]
+}

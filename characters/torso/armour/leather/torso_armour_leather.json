@@ -22,7 +22,8 @@
     "jump",
     "sit",
     "emote",
-    "climb"
+    "climb",
+    "run"
   ],
   "recolors": {
     "color_1": {
@@ -48,7 +49,7 @@
   "credits": [
     {
       "file": ".",
-      "notes": "adapted to v3 bases by bluecarrot16, reduced colors and climb/emote/jump by JaidynReiman",
+      "notes": "adapted to v3 bases by bluecarrot16, reduced colors and climb/sit/emote/jump/run by JaidynReiman",
       "authors": [
         "Johannes Sj\u00f6lund (wulax)",
         "bluecarrot16",
@@ -67,7 +68,7 @@
     },
     {
       "file": "female",
-      "notes": "recolor of torso/armour/leather/female/brown.png, adapted to v3 bases by bluecarrot16, reduced colors and climb/emote/jump by JaidynReiman",
+      "notes": "recolor of torso/armour/leather/female/brown.png, adapted to v3 bases by bluecarrot16, reduced colors and climb/sit/emote/jump/run by JaidynReiman",
       "authors": [
         "Michael Whitlock (bigbeargames)",
         "Matthew Krohn (makrohn)",
@@ -89,7 +90,7 @@
     },
     {
       "file": "teen",
-      "notes": "adapted to v3 bases by bluecarrot16, teen version by JaidynReiman adapted from Male and Female versions",
+      "notes": "adapted to v3 bases by bluecarrot16, teen version by JaidynReiman adapted from Male and Female versions, climb/sit/emote/jump/run by JaidynReiman",
       "authors": [
         "Michael Whitlock (bigbeargames)",
         "Matthew Krohn (makrohn)",
