@@ -12,6 +12,11 @@
       "teen": "thin/"
     }
   ],
+  "prerequisites": {
+    "asset": [
+      "belt_obi"
+    ]
+  },
   "animations": [
     "spellcast",
     "thrust",
