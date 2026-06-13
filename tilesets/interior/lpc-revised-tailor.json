@@ -1,0 +1,28 @@
+{
+  "name": "[LPC Revised] Tailor",
+  "category": "tileset",
+  "preview": "tailor/lpc-revised-tailor.png",
+  "download": [
+    "tailor/lpc-revised-tailor.png",
+    "tailor/lpc-revised-tailor.tsx"
+  ],
+  "credits": [
+    {
+      "file": "tailor/lpc-revised-tailor.png",
+      "notes": "LPC Tailor by bluecarrot16, recolors by ElizaWy, tileset by JaidynReiman.",
+      "authors": [
+        "Bluecarrot16",
+        "ElizaWy",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-tailor",
+        "https://github.com/ElizaWy/LPC/tree/main/Objects/Furniture",
+        "https://opengameart.org/content/lpc-revised-workshop-tilesets"
+      ]
+    }
+  ]
+}

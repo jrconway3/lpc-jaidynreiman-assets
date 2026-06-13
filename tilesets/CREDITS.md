@@ -36,38 +36,24 @@ One change that might be ideal is breaking down the assets into style. This mixe
   - <https://github.com/ElizaWy/LPC>
   - <https://opengameart.org/content/lpc-revised-fully-configured-4-seasons-tilesets-for-tiled-map-editor>
 
-## Interior Decoration Tileset (LPC Revised)
+## Interior Tilesets (LPC Revised)
 
-Includes all interior decorations like wall items, table items, etc. This includes a massive comprehensive list of all food items as well.
+These are various Interior Tilesets, primarily based on LPC Revised assets. I have compiled tilesets from pre-existing assets and filled out missing gaps where needed.
 
-I think I might like to break this down into related assets as well and perhaps make adjustments so various items can appear in different contexts. I think maybe wall decorations should be split off from table decorations. I never officially released this one yet.
 
-- Authors: JaidynReiman, Eliza Wyatt (DeathsDarling), Lanea Zimmerman (Sharm), Stephen Challener (Redshrike), Johannes Sjölund (Wulax), BlueCarrot16, BenCreating, Durrani, YuriNikolai and Craftpix.net 2D Game Assets.
-- License: OGA-BY 3.0
-- Sources:
-  - <https://github.com/ElizaWy/LPC>
+### Interior Table Items Tileset
 
-## Interior Furniture Tileset (LPC Revised)
-
-Comprehensive list of all interior furniture related items in LPC Revised. Might be beneficial later to break it down by content type.
+Includes all interior decorations related to table items. This includes a massive comprehensive list of all food items as well. Originally I included wall overlays, but I dropped it down to almost exclusively just table-based items, including food items.
 
 - Authors: JaidynReiman, Eliza Wyatt (DeathsDarling), Lanea Zimmerman (Sharm), Stephen Challener (Redshrike), Johannes Sjölund (Wulax), BlueCarrot16, BenCreating, Durrani, YuriNikolai and Craftpix.net 2D Game Assets.
 - License: OGA-BY 3.0
 - Sources:
   - <https://github.com/ElizaWy/LPC>
 
-## Interior Floor Tileset (LPC Revised)
 
-Includes all carpets, rugs, and flooring. This is very similar to Bluecarrot16's floors but its mostly just rugs.
+### Interior Table Items Tileset
 
-- Authors: JaidynReiman, Eliza Wyatt (DeathsDarling), Lanea Zimmerman (Sharm), Stephen Challener (Redshrike), Johannes Sjölund (Wulax), BlueCarrot16, BenCreating, Durrani, YuriNikolai and Craftpix.net 2D Game Assets.
-- License: OGA-BY 3.0
-- Sources:
-  - <https://github.com/ElizaWy/LPC>
-
-## Interior Wall Tileset (LPC Revised)
-
-Comprehensive list of all interior wall assets available in LPC Revised. Potentially this could be benefitted by grabbing wall overlays as well and dropping them into this set.
+Includes all interior decorations related to table items. This includes a massive comprehensive list of all food items as well. Originally I included wall overlays, but I dropped it down to almost exclusively just table-based items, including food items.
 
 - Authors: JaidynReiman, Eliza Wyatt (DeathsDarling), Lanea Zimmerman (Sharm), Stephen Challener (Redshrike), Johannes Sjölund (Wulax), BlueCarrot16, BenCreating, Durrani, YuriNikolai and Craftpix.net 2D Game Assets.
 - License: OGA-BY 3.0
