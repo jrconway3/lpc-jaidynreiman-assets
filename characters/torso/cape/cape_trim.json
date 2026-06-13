@@ -12,10 +12,11 @@
       "muscular": "trim/"
     }
   ],
-  "prerequisites": [
-    "solid_cape",
-    "tattered_cape"
-  ],
+  "prerequisites": {
+    "asset": [
+      "solid_cape"
+    ]
+  },
   "animations": [
     "spellcast",
     "thrust",
