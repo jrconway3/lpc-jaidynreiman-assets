@@ -29,14 +29,6 @@ This file contains attribution details for all leg assets.
   - <https://opengameart.org/content/lpc-gentleman>
   - <https://opengameart.org/content/lpc-expanded-pants>
 
-## Fur Pants
-- Authors: Bluecarrot16, JaidynReiman, Evert, ElizaWy, Nila122, Johannes Sjölund (wulax), Stephen Challener (Redshrike)
-- License: CC-BY-SA 3.0, GPL 3.0
-- Sources:
-  - <https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles>
-  - <https://opengameart.org/content/lpc-faun-and-minotaur>
-  - <https://opengameart.org/content/lpc-expanded-pants>
-
 ## Hose
 - Authors: JaidynReiman, ElizaWy, bluecarrot16, Johannes Sjölund (wulax), Stephen Challener (Redshrike)
 - License: OGA-BY 3.0, GPL 3.0
@@ -85,15 +77,6 @@ This file contains attribution details for all leg assets.
   - <https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles>
   - <https://opengameart.org/content/lpc-medieval-fantasy-character-sprites>
   - <https://opengameart.org/content/lpc-expanded-pants>
-  - <http://opengameart.org/content/lpc-clothing-updates>
-
-## Pregnancy pants
-- Authors: bluecarrot16, ElizaWy, JaidynReiman, Joe White, Matthew Krohn (makrohn), Johannes Sjölund (wulax), Stephen Challener (Redshrike)
-- License: CC-BY-SA 3.0, GPL 3.0
-- Sources:
-  - <https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles>
-  - <https://opengameart.org/content/lpc-medieval-fantasy-character-sprites>
-  - <https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear>
   - <http://opengameart.org/content/lpc-clothing-updates>
 
 ## Striped Formal Pants
