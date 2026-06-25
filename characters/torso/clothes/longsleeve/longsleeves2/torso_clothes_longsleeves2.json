@@ -11,8 +11,9 @@
     }
   ],
   "prerequisites": {
-    "asset": [
-      "torso_clothes_longsleeve2"
+    "subcategory": [
+      "shortsleeve",
+      "sleeveless"
     ]
   },
   "animations": [

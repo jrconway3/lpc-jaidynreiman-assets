@@ -5,9 +5,8 @@
     {
       "id": "base",
       "zPos": 50,
-      "male": "torso/chainmail/male/",
-      "female": "torso/chainmail/female/",
-      "teen": "torso/chainmail/female/"
+      "male": "male/",
+      "female": "female/"
     }
   ],
   "animations": [

@@ -13,6 +13,11 @@
       "child": "child/"
     }
   ],
+  "prerequisites": {
+    "asset": [
+      "hat_headband_thick"
+    ]
+  },
   "animations": [
     "spellcast",
     "thrust",

@@ -28,20 +28,6 @@ This file contains attribution details for cloth hat assets.
   - <https://opengameart.org/content/lpc-medieval-fantasy-character-sprites>
   - <https://opengameart.org/content/lpc-expanded-hats-facial-helmets>
 
-## Leather Cap
-- Authors: Johannes Sjölund (wulax), Matthew Krohn (Makrohn), JaidynReiman
-- License: OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0
-- Sources:
-  - <https://opengameart.org/content/lpc-medieval-fantasy-character-sprites>
-  - <https://opengameart.org/content/lpc-expanded-hats-facial-helmets>
-
-## Leather Cap Feather
-- Authors: Johannes Sjölund (wulax), Matthew Krohn (Makrohn), JaidynReiman
-- License: OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0
-- Sources:
-  - <https://opengameart.org/content/lpc-medieval-fantasy-character-sprites>
-  - <https://opengameart.org/content/lpc-expanded-hats-facial-helmets>
-
 ## Sack Cloth Hood
 - Authors: Nila122, JaidynReiman
 - License: OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0

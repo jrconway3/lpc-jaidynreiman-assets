@@ -11,15 +11,8 @@ Please see [cloth/CREDITS.md](cloth/CREDITS.md)
 ## Headband
 Please see [headband/CREDITS.md](headband/CREDITS.md)
 
-## Helmet
-Please see [helmet/CREDITS.md](helmet/CREDITS.md)
-
 ## Holiday
 Please see [holiday/CREDITS.md](holiday/CREDITS.md)
 
 ## Magic
 Please see [magic/CREDITS.md](magic/CREDITS.md)
-
-## Pirate
-Please see [pirate/CREDITS.md](pirate/CREDITS.md)
-

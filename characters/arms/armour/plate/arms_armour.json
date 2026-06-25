@@ -24,8 +24,7 @@
     "idle",
     "jump",
     "sit",
-    "emote",
-    "run"
+    "emote"
   ],
   "recolors": {
     "material": "metal",

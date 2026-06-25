@@ -1,5 +1,5 @@
 {
-  "name": "Shortsleeves 2 Overlay",
+  "name": "Shortsleeves 2",
   "category": "sleeves",
   "layers": [
     {
@@ -11,8 +11,8 @@
     }
   ],
   "prerequisites": {
-    "asset": [
-      "torso_clothes_shortsleeve"
+    "subcategory": [
+      "sleeveless"
     ]
   },
   "animations": [
