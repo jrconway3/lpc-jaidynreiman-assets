@@ -1,6 +1,6 @@
 {
   "name": "Chainmail",
-  "category": "Armour",
+  "category": "armour",
   "layers": [
     {
       "id": "base",
