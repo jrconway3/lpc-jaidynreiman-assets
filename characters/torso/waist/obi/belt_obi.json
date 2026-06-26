@@ -12,11 +12,6 @@
       "teen": "thin/"
     }
   ],
-  "prerequisites": {
-    "asset": [
-      "belt_waistband"
-    ]
-  },
   "animations": [
     "spellcast",
     "thrust",
