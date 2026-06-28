@@ -35,7 +35,7 @@ This file contains attribution details for assets in this directory group.
 - Sources:
   - <https://opengameart.org/content/lpc-wings-new-animations>
 
-## Body Color
+## Body
 - Authors: bluecarrot16, JaidynReiman, Benjamin K. Smith (BenCreating), Evert, Eliza Wyatt (ElizaWy), TheraHedwig, MuffinElZangano, Durrani, Johannes Sjölund (wulax), Stephen Challener (Redshrike), Pierre Vigier (pvigier), ElizaWy, Matthew Krohn (makrohn), Sander Frenken (castelonia), dalonedrau, Nila122, kheftel
 - License: OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0
 - Sources:
@@ -64,12 +64,6 @@ This file contains attribution details for assets in this directory group.
 - License: OGA-BY 3.0
 - Sources:
   - <https://opengameart.org/content/lpc-wings-new-animations>
-
-## Left Eye
-- Authors: JaidynReiman, Benjamin K. Smith (BenCreating), Sander Frenken (castelonia)
-- License: CC-BY-SA 3.0, GPL 3.0
-- Sources:
-  - <https://opengameart.org/content/lpc-zombie>
 
 ## Lizard tail
 - Authors: Nila122, bluecarrot16, JaidynReiman
