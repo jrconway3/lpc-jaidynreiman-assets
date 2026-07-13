@@ -33,21 +33,6 @@ This file contains attribution details for assets in this directory group.
   - <https://opengameart.org/content/lpc-kimono-relm>
   - <https://opengameart.org/content/lpc-expanded-socks-shoes>
 
-## Tabi Socks
-- Authors: JaidynReiman, Stephen Challener (Redshrike), Johannes Sjölund (wulax)
-- License: OGA-BY 3.0+, CC-BY 3.0+, GPL 3.0
-- Sources:
-  - <https://opengameart.org/content/lpc-kimono-relm>
-  - <https://opengameart.org/content/lpc-expanded-socks-shoes>
-
-## Ankle Socks
-- Authors: JaidynReiman, ElizaWy, Bluecarrot16, Stephen Challener (Redshrike), Johannes Sjölund (wulax)
-- License: OGA-BY 3.0, GPL 3.0
-- Sources:
-  - <https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing>
-  - <https://opengameart.org/content/lpc-expanded-socks-shoes>
-  - <https://opengameart.org/content/lpc-expanded-sit-run-jump-more>
-
 ## Basic Boots
 - Authors: JaidynReiman, bluecarrot16, Nila122
 - License: OGA-BY 3.0, CC-BY-SA 3.0, GPL 2.0, GPL 3.0
@@ -63,6 +48,12 @@ This file contains attribution details for assets in this directory group.
   - <http://opengameart.org/content/lpc-clothing-updates>
   - <https://opengameart.org/content/lpc-expanded-socks-shoes>
 
+## Plate Shoes
+- Authors: bluecarrot16, JaidynReiman, Michael Whitlock (bigbeargames), Matthew Krohn (makrohn), Johannes Sjölund (wulax)
+- License: OGA-BY 3.0+, CC-BY 3.0+, GPL 3.0
+- Sources:
+  - <https://opengameart.org/content/lpc-medieval-fantasy-character-sprites>
+
 ## Ghillies
 - Authors: bluecarrot16, JaidynReiman, Thane Brimhall (pennomi), laetissima, Matthew Krohn (makrohn)
 - License: CC-BY-SA 3.0, GPL 3.0
@@ -70,14 +61,6 @@ This file contains attribution details for assets in this directory group.
   - <https://opengameart.org/content/lpc-2-characters>
   - <http://opengameart.org/content/lpc-clothing-updates>
   - <https://opengameart.org/content/lpc-expanded-socks-shoes>
-
-## High Socks
-- Authors: JaidynReiman, ElizaWy, Bluecarrot16, Stephen Challener (Redshrike), Johannes Sjölund (wulax)
-- License: OGA-BY 3.0, GPL 3.0
-- Sources:
-  - <https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing>
-  - <https://opengameart.org/content/lpc-expanded-socks-shoes>
-  - <https://opengameart.org/content/lpc-expanded-sit-run-jump-more>
 
 ## Revised Boots
 - Authors: JaidynReiman, ElizaWy, Bluecarrot16, Stephen Challener (Redshrike), Johannes Sjölund (wulax)
@@ -118,3 +101,26 @@ This file contains attribution details for assets in this directory group.
   - <https://opengameart.org/content/thin-mage-clothing-set>
   - <http://opengameart.org/content/lpc-clothing-updates>
   - <https://opengameart.org/content/lpc-expanded-socks-shoes>
+
+## Tabi Socks
+- Authors: JaidynReiman, Stephen Challener (Redshrike), Johannes Sjölund (wulax)
+- License: OGA-BY 3.0+, CC-BY 3.0+, GPL 3.0
+- Sources:
+  - <https://opengameart.org/content/lpc-kimono-relm>
+  - <https://opengameart.org/content/lpc-expanded-socks-shoes>
+
+## High Socks
+- Authors: JaidynReiman, ElizaWy, Bluecarrot16, Stephen Challener (Redshrike), Johannes Sjölund (wulax)
+- License: OGA-BY 3.0, GPL 3.0
+- Sources:
+  - <https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing>
+  - <https://opengameart.org/content/lpc-expanded-socks-shoes>
+  - <https://opengameart.org/content/lpc-expanded-sit-run-jump-more>
+
+## Ankle Socks
+- Authors: JaidynReiman, ElizaWy, Bluecarrot16, Stephen Challener (Redshrike), Johannes Sjölund (wulax)
+- License: OGA-BY 3.0, GPL 3.0
+- Sources:
+  - <https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing>
+  - <https://opengameart.org/content/lpc-expanded-socks-shoes>
+  - <https://opengameart.org/content/lpc-expanded-sit-run-jump-more>
